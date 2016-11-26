@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/res/merged/debug/layout/activity_list.xml",
+        "source": "/Users/Iron_Man/Android_apps/Wifi/app/src/main/res/layout/activity_list.xml"
+    },
+    {
+        "merged": "/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Iron_Man/Android_apps/Wifi/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/res/merged/debug/layout/single_list.xml",
+        "source": "/Users/Iron_Man/Android_apps/Wifi/app/src/main/res/layout/single_list.xml"
+    },
+    {
+        "merged": "/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/res/merged/debug/layout/item_lost.xml",
+        "source": "/Users/Iron_Man/Android_apps/Wifi/app/src/main/res/layout/item_lost.xml"
+    }
+]

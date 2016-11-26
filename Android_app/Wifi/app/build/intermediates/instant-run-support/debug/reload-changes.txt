@@ -1,0 +1,14 @@
+CHANGED,/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/mobilemerit/wifi/R$id$override.class
+CHANGED,/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/mobilemerit/wifi/LostItems$customAdapter$override.class
+CHANGED,/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/mobilemerit/wifi/R$string$override.class
+CHANGED,/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/mobilemerit/wifi/LostItems$HttpRequestTask$override.class
+CHANGED,/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/mobilemerit/wifi/MainActivity$WifiReceiver$1$override.class
+CHANGED,/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/mobilemerit/wifi/R$layout$override.class
+CHANGED,/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/mobilemerit/wifi/MainActivity$override.class
+CHANGED,/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/mobilemerit/wifi/LostItems$override.class
+CHANGED,/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/mobilemerit/wifi/MainActivity$WifiReceiver$override.class
+CHANGED,/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/mobilemerit/adapter/ListAdapter$override.class
+CHANGED,/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/mobilemerit/wifi/R$menu$override.class
+CHANGED,/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/mobilemerit/wifi/LostItems$3$override.class
+CHANGED,/Users/Iron_Man/Android_apps/Wifi/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/mobilemerit/wifi/R$style$override.class
